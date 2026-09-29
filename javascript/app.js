@@ -6,7 +6,7 @@ import { Arow } from "./modules/Arow.mjs";
 // --------------------------------------------------
 // COMPONENTS
 // --------------------------------------------------
-import { FileContainer } from "./components/FILE_CONTAINER.mjs";
+import { FileContainer } from "./components/file_container.mjs";
 
 // --------------------------------------------------
 // MAIN APP FUNCTIONALITY
