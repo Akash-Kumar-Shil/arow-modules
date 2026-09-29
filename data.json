@@ -1,0 +1,20 @@
+{
+  "version": "0.1.0",
+
+  "modules": [
+    {
+      "name": "Fetch",
+      "extension": "mjs",
+      "version": "0.1.0",
+      "description": "Lightweight wrapper for fetch requests supporting custom types and POST methods.",
+      "dependency": []
+    },
+    {
+      "name": "Notification",
+      "extension": "mjs",
+      "version": "0.1.0",
+      "description": "Lightweight wrapper for fetch requests supporting custom types and POST methods.",
+      "dependency": []
+    }
+  ]
+}
